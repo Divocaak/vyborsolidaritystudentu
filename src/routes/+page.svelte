@@ -30,11 +30,16 @@
 			<p>Děkujeme, že nejste lhostejní.</p>
 			<p>Za Výbor solidarity studentů</p>
 			<p>Stávka byla oficiálně vyhlášena 28. listopadu 2026 na náměstí Svobodě v Brně</p>
-			<a href="/jak-se-pripojit.pdf" download>jak se připojit</a><br />
+			<a href="/vyzva-a-vyhlaseni-28102026.pdf" download>výzva a vyhlášení akční stávky 28. 10. 2026</a><br />
+			<br />
+			<a href="/vsp_vss.pdf" download>Vyhlášení stávkové pohotovosti za Výbor solidarity studentů</a><br />
+			<a href="/vsp_jamu.pdf" download>vyhlášení stávkové pohotovosti JAMU</a><br />
+			<!-- <a href="/jak-se-pripojit.pdf" download>jak se připojit</a><br />
 			<a href="/vyzva-k-podpore.pdf" download>výzva k podpoře akční stávky</a><br />
-			<a href="/retezova-reakce.pdf" download>Přidejte se k akci Řetězová reakce 3. 11. 2026</a>
+			<a href="/retezova-reakce.pdf" download>Přidejte se k akci Řetězová reakce 3. 11. 2026</a> -->
 		</span>
 	</section>
+	
 	<section id="protest">
 		<h2>PROTEST 28. 10.</h2>
 		<p>Milé studentstvo, Vážená akademická obci,</p>
@@ -94,7 +99,7 @@
 	</section>
 
 	<section id="aktualni-prohlaseni">
-		<h2>AKTUÁLNÍ PROHLÁŠENÍ</h2>
+		<h2>PROHLÁŠENÍ KE DNI 28. ŘÍJNA 2026</h2>
 		<p>
 			Prohlášení Výboru solidarity studentů JAMU Studentstvo JAMU, které znepokojeně sleduje
 			projednávání návrhu na zrušení televizního a rozhlasového poplatku a způsob, jakým byl bod
@@ -122,7 +127,7 @@
 		</p>
 		<p>Záleží nám na budoucnosti Česka. Náš hlas bude slyšet tak dlouho, jak bude třeba!</p>
 		<p class="text-left">
-			Prohlášeno 28. 10. 2026 na náměstí Svobody v Brně<br /><br />
+			Prohlášeno 28. října 2026 na náměstí Svobody v Brně<br /><br />
 			Výbor solidarity studentů JAMU<br />
 			Za koordinační tým Výboru solidarity studentů:<br /><br />
 			Ondra Němec<br />
@@ -131,9 +136,7 @@
 			Eva Kaslova<br />
 			Veronika Hušková
 		</p>
-		<!-- <a href="/TZ_Vss_20261026.pdf" download>tisková zpráva</a><br />
-		<a href="/vsp_jamu.pdf" download>vyhlášení stávkové pohotovosti JAMU</a><br />
-		<a href="/vsp_vss.pdf" download>vyhlášení stávkové pohotovosti vss</a> -->
+		<a href="/TZ_Vss_20261026.pdf" download>tisková zpráva ke dni 26. října 2026</a>
 	</section>
 
 	<section id="kontakty">
