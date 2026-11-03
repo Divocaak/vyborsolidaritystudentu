@@ -9,8 +9,11 @@
 </svelte:head>
 
 <nav>
+	<!-- <div class="heading-row">
+		<img src="/logo.jpg" alt="logo" /> -->
 	<h1>VÝBOR SOLIDARITY STUDENTŮ</h1>
-	<div>
+	<!-- </div> -->
+	<div class="nav-row">
 		<a href="/#protest">protest</a>
 		<a href="/#co-se-deje">co se děje</a>
 		<a href="/#aktualni-prohlaseni">aktuální prohlášení</a>
@@ -153,14 +156,14 @@
 		border-bottom: var(--border-width) solid var(--color-primary);
 	}
 
-	nav h1 {
+	nav .heading-row h1 {
 		width: 100%;
 		margin: 0;
 		text-align: center;
 		overflow-wrap: anywhere;
 	}
 
-	nav div {
+	nav .nav-row {
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
@@ -168,6 +171,16 @@
 		justify-content: center;
 		gap: 0.75rem 2rem;
 		width: 100%;
+	}
+
+	/* nav .heading-row{
+		display: flex;
+		flex-direction: row;
+	} */
+
+	nav .heading-row img {
+		height: 100px;
+		width: auto;
 	}
 
 	nav a {
@@ -197,7 +210,7 @@
 			line-height: 1.15;
 		}
 
-		nav div {
+		nav .nav-row {
 			gap: 0.75rem 1rem;
 		}
 
