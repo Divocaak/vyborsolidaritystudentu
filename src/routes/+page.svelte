@@ -4,19 +4,39 @@
 
 <main>
 	<section>
+		<h2>PROHLÁŠENÍ VÝBORU SOLIDARITY STUDENTŮ KE DNI 3.&nbsp;11.&nbsp;2026</h2>
+		<p>
+			Pro otevření dialogu všech iniciativ bychom rádi vyjasnili podstatu <span
+				class="attention-text">VÝBORU&nbsp;SOLIDARITY&nbsp;STUDENTŮ.</span
+			>
+		</p>
+		<p>
+			VSS nemluví jménem všech škol a studentů, nemá v žádném případě ambici nahrazovat oficiální
+			struktury, které sdružují volené studentské zástupce.
+		</p>
+		<p>
+			<span class="attention-text">NAŠÍ&nbsp;PODSTATOU&nbsp;JE&nbsp;INICIOVAT&nbsp;A&nbsp;VYTVÁŘET</span> akce a obsahy zaměřené
+			na podporu demokratických principů. Na této bázi volně sdružuje jednotlivce a skupiny studentů z
+			různých škol, které spojuje zájem o daná témata a potřeba je komunikovat tak, aby bylo možné zachovat
+			dialog, který je zárukou udržení demokracie.
+		</p>
+		<p>
+			V případě informační nejasnosti týkající se propojení jednotlivých studentských iniciativ se
+			neváhejte obrátit na jakoukoli konkrétní iniciativu, která vás spojí s jednotlivými vedoucími.
+		</p>
+	</section>
+
+	<section>
 		<h2>AKTUÁLNÍ PROHLÁŠENÍ A VÝZVA K ZAPOJENÍ:</h2>
 		<span class="text-left">
 			<p>Výbor solidarity studentů</p>
 			<p>
 				Výbor solidarity studentů v reakci na jednání vládních politiků, kteří dali jasně najevo, že
-				nechtějí vést dialog s veřejností, vyhlašuje na <span class="attention-text"
-					>3. listopadu 2026 akční stávku</span
+				nechtějí vést dialog s veřejností, vyhlašuje Akční stávku na <span class="attention-text"
+					>3.&nbsp;listopadu&nbsp;2026</span
 				> ve formě Vlny solidarity na podporu médií veřejné služby, České televize, Českého rozhlasu a
 				jejich zaměstnanců a zaměstnankyň. Výbor si váží všech dalších kultivovaných iniciativ, které
 				napříč republikou na podporu mediální nezávislosti vznikly, a deklaruje vůli ke spolupráci s nimi.
-				Výbor solidarity studentů v reakci na jednání vládních politiků, kteří dali jasně najevo, že nechtějí
-				vést dialog s veřejností vyhlašuje na 3. 11. 2026 akční stávku na podporu médií veřejné služby,
-				České televize a Českého rozhlasu a jejich zaměstnanců.
 			</p>
 			<p>Vyzýváme studentstvo a veřejnost: <b>Přidejte se k nám</b>.</p>
 			<p>
@@ -31,11 +51,11 @@
 			</p>
 			<p>Podpořte akční stávku 3. listopadu 2026</p>
 			<p>Děkujeme, že nejste lhostejní.</p>
-			<a href="/jak-se-pripojit.pdf" download>jak se připojit</a><br/>
-			<a href="/vyzva-k-podpore.pdf" download>výzva k podpoře akční stávky</a><br/>
-			<a href="/retezova-reakce.pdf" download>Přidejte se k akci Řetězová reakce 3. 11. 2026</a>
+			<p>Za Výbor solidarity studentů</p>
+			<p>Stávka byla oficiálně vyhlášena 28. října 2026 na náměstí Svobodě v Brně</p>
 		</span>
 	</section>
+
 	<section id="protest">
 		<h2>PROTEST 28. 10.</h2>
 		<p>Milé studentstvo, Vážená akademická obci,</p>
@@ -80,7 +100,7 @@
 			instituce, ale vystupujeme jako nezávislá studentská skupina a jednotlivci.
 		</p>
 		<p>
-			Naším úkolem je vytvářet politický tlak na vládní struktury prostřednictvím participace ve
+			Naším úkolem je vytvářet účinný tlak na vládní struktury prostřednictvím participace ve
 			veřejném prostoru, a to v oblastech, v nichž oslabují demokratické principy, za kterými pevně
 			stojíme. Iniciativa vznikla jako bezprostřední reakce na aktuální dění a v současnosti se
 			zaměřuje především na pokus vládní koalice o zestátnění veřejnoprávních médií. Nejde však o
@@ -95,7 +115,7 @@
 	</section>
 
 	<section id="aktualni-prohlaseni">
-		<h2>AKTUÁLNÍ PROHLÁŠENÍ</h2>
+		<h2>PROHLÁŠENÍ KE DNI 28. ŘÍJNA 2026</h2>
 		<p>
 			Prohlášení Výboru solidarity studentů JAMU Studentstvo JAMU, které znepokojeně sleduje
 			projednávání návrhu na zrušení televizního a rozhlasového poplatku a způsob, jakým byl bod
@@ -123,7 +143,7 @@
 		</p>
 		<p>Záleží nám na budoucnosti Česka. Náš hlas bude slyšet tak dlouho, jak bude třeba!</p>
 		<p class="text-left">
-			Brno, 24. 10. 2026<br /><br />
+			Prohlášeno 28. října 2026 na náměstí Svobody v Brně<br /><br />
 			Výbor solidarity studentů JAMU<br />
 			Za koordinační tým Výboru solidarity studentů:<br /><br />
 			Ondra Němec<br />
@@ -132,9 +152,20 @@
 			Eva Kaslova<br />
 			Veronika Hušková
 		</p>
-		<a href="/TZ_Vss_20261026.pdf" download>tisková zpráva</a><br />
+	</section>
+
+	<section id="archiv">
+		<h2>ARCHIV DOKUMENTŮ</h2>
+		<a href="/vyzva-a-vyhlaseni.pdf" download
+			>výzva a vyhlášení akční stávky ve formě vlny solidarity</a
+		><br />
+		<a href="/vsp_vss.pdf" download>Vyhlášení stávkové pohotovosti za Výbor solidarity studentů</a
+		><br />
 		<a href="/vsp_jamu.pdf" download>vyhlášení stávkové pohotovosti JAMU</a><br />
-		<a href="/vsp_vss.pdf" download>vyhlášení stávkové pohotovosti vss</a>
+		<a href="/TZ_Vss_20261026.pdf" download>tisková zpráva ke dni 26. října 2026</a>
+		<!-- <a href="/jak-se-pripojit.pdf" download>jak se připojit</a><br />
+			<a href="/vyzva-k-podpore.pdf" download>výzva k podpoře akční stávky</a><br />
+			<a href="/retezova-reakce.pdf" download>Přidejte se k akci Řetězová reakce 3. 11. 2026</a> -->
 	</section>
 
 	<section id="kontakty">
