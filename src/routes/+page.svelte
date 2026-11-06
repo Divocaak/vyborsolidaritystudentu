@@ -15,10 +15,11 @@
 			struktury, které sdružují volené studentské zástupce.
 		</p>
 		<p>
-			<span class="attention-text">NAŠÍ&nbsp;PODSTATOU&nbsp;JE&nbsp;INICIOVAT&nbsp;A&nbsp;VYTVÁŘET</span> akce a obsahy zaměřené
-			na podporu demokratických principů. Na této bázi volně sdružuje jednotlivce a skupiny studentů z
-			různých škol, které spojuje zájem o daná témata a potřeba je komunikovat tak, aby bylo možné zachovat
-			dialog, který je zárukou udržení demokracie.
+			<span class="attention-text"
+				>NAŠÍ&nbsp;PODSTATOU&nbsp;JE&nbsp;INICIOVAT&nbsp;A&nbsp;VYTVÁŘET</span
+			> akce a obsahy zaměřené na podporu demokratických principů. Na této bázi volně sdružuje jednotlivce
+			a skupiny studentů z různých škol, které spojuje zájem o daná témata a potřeba je komunikovat tak,
+			aby bylo možné zachovat dialog, který je zárukou udržení demokracie.
 		</p>
 		<p>
 			V případě informační nejasnosti týkající se propojení jednotlivých studentských iniciativ se
@@ -107,17 +108,16 @@
 			její jediný zájem.
 		</p>
 		<p>
-			Chceme aktivně a napříč společností posilovat hlas studentstva, a proto jsme otevřeni
-			mezinárodní spolupráci. Ve výboru dosud působí studenti a studentky Univerzity Karlovy,
+			Chceme aktivně a napříč společností posilovat hlas studentstva, a proto jsme otevřeni spolupráci. <!-- Ve výboru dosud působí studenti a studentky Univerzity Karlovy,
 			Masarykovy univerzity, Divadelní fakulty Akademie múzických umění, Akademie výtvarných umění,
-			Vysoké školy uměleckoprůmyslové a Vyšší odborné školy herecké.
+			Vysoké školy uměleckoprůmyslové a Vyšší odborné školy herecké. -->
 		</p>
 	</section>
 
 	<section id="aktualni-prohlaseni">
 		<h2>PROHLÁŠENÍ KE DNI 28. ŘÍJNA 2026</h2>
 		<p>
-			Prohlášení Výboru solidarity studentů JAMU Studentstvo JAMU, které znepokojeně sleduje
+			Prohlášení Výboru solidarity studentů, které znepokojeně sleduje
 			projednávání návrhu na zrušení televizního a rozhlasového poplatku a způsob, jakým byl bod
 			zařazen do programu dnešního jednání Poslanecké sněmovny, zakládá Výbor solidarity studentů
 			vysokých škol a vydává následující prohlášení:
@@ -144,7 +144,7 @@
 		<p>Záleží nám na budoucnosti Česka. Náš hlas bude slyšet tak dlouho, jak bude třeba!</p>
 		<p class="text-left">
 			Prohlášeno 28. října 2026 na náměstí Svobody v Brně<br /><br />
-			Výbor solidarity studentů JAMU<br />
+			Výbor solidarity studentů<br />
 			Za koordinační tým Výboru solidarity studentů:<br /><br />
 			Ondra Němec<br />
 			Eliška Kubečková<br />
@@ -156,12 +156,15 @@
 
 	<section id="archiv">
 		<h2>ARCHIV DOKUMENTŮ</h2>
+		<a href="/prohlaseni-vss-03112026.pdf" download
+			>PROHLÁŠENÍ VÝBORU STUDENTKÉ SOLIDARITY KE DNI 3. listopadu 2026</a
+		>
 		<a href="/vyzva-a-vyhlaseni.pdf" download
 			>výzva a vyhlášení akční stávky ve formě vlny solidarity</a
 		><br />
 		<a href="/vsp_vss.pdf" download>Vyhlášení stávkové pohotovosti za Výbor solidarity studentů</a
 		><br />
-		<a href="/vsp_jamu.pdf" download>vyhlášení stávkové pohotovosti JAMU</a><br />
+		<a href="/vsp_jamu.pdf" download>vyhlášení stávkové pohotovosti za vss JAMU</a><br />
 		<a href="/TZ_Vss_20261026.pdf" download>tisková zpráva ke dni 26. října 2026</a>
 		<!-- <a href="/jak-se-pripojit.pdf" download>jak se připojit</a><br />
 			<a href="/vyzva-k-podpore.pdf" download>výzva k podpoře akční stávky</a><br />
