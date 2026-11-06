@@ -76,7 +76,10 @@
 		</p>
 		<p>Detailnější informace zveřejníme brzy.</p>
 		<p>Váš tým Vss</p>
-		<img src="/banner.jpg" alt="banner" />
+		<img
+			src="/banner.jpg"
+			alt="Výbor solidarity studentů - studentská iniciativa na podporu demokracie a nezávislosti veřejnoprávních médií"
+		/>
 	</section>
 
 	<section id="co-se-deje">
@@ -108,7 +111,8 @@
 			její jediný zájem.
 		</p>
 		<p>
-			Chceme aktivně a napříč společností posilovat hlas studentstva, a proto jsme otevřeni spolupráci. <!-- Ve výboru dosud působí studenti a studentky Univerzity Karlovy,
+			Chceme aktivně a napříč společností posilovat hlas studentstva, a proto jsme otevřeni
+			spolupráci. <!-- Ve výboru dosud působí studenti a studentky Univerzity Karlovy,
 			Masarykovy univerzity, Divadelní fakulty Akademie múzických umění, Akademie výtvarných umění,
 			Vysoké školy uměleckoprůmyslové a Vyšší odborné školy herecké. -->
 		</p>
@@ -117,10 +121,10 @@
 	<section id="aktualni-prohlaseni">
 		<h2>PROHLÁŠENÍ KE DNI 28. ŘÍJNA 2026</h2>
 		<p>
-			Prohlášení Výboru solidarity studentů, které znepokojeně sleduje
-			projednávání návrhu na zrušení televizního a rozhlasového poplatku a způsob, jakým byl bod
-			zařazen do programu dnešního jednání Poslanecké sněmovny, zakládá Výbor solidarity studentů
-			vysokých škol a vydává následující prohlášení:
+			Prohlášení Výboru solidarity studentů, které znepokojeně sleduje projednávání návrhu na
+			zrušení televizního a rozhlasového poplatku a způsob, jakým byl bod zařazen do programu
+			dnešního jednání Poslanecké sněmovny, zakládá Výbor solidarity studentů vysokých škol a vydává
+			následující prohlášení:
 		</p>
 		<p>
 			Odmítáme snahu vládní koalice zrušit koncesionářské poplatky a zavést financování České
