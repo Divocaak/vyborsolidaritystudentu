@@ -4,6 +4,30 @@
 
 <main>
 	<section>
+		<h2>PROHLÁŠENÍ VÝBORU SOLIDARITY STUDENTŮ KE DNI 10.&nbsp;11.&nbsp;2026</h2>
+		<p>
+			Za poslední dva týdny se nám podařilo propojit se studenty středních a vysokých škol napříč
+			republikou a komunikovat tak s veřejností kritický postoj ke způsobu projednávání mediálního
+			zákona, ke kterému se hned vzápětí přidal i návrh na změnu vysokoškolského zákona.
+		</p>
+		<p>
+			A chceme s tím pokračovat! Budeme kritičtí! Náš protest jde dál! Náš protest je vlna
+			solidarity! Projednávání probíhá současně, ale my se nenecháme roztříštit pozornost. Jsme
+			slyšet a není nám lhostejná budoucnost médií, školství, kultury, životního prostředí a dalších
+			odvětví, v nichž dochází k oslabování demokratických hodnot. Vyzýváme vás proto k připojení se
+			k iniciativám, které stojí za svobodným slovem, kritickým myšlením a selským rozumem. Protože
+			jeden kompaktní hlas více řeže. Setrváme v protestu hlavně proto, abychom vyjádřili podporu
+			všem studentům i občanům, kteří chtějí být akční, kteří chtějí, aby jejich hlas, a hlavně činy
+			byly slyšet a vidět. Jako Výbor solidarity studentů, chceme podpořit impulsy k akci, být tu
+			pro studentstvo a pro ty, kteří hledají svůj hlas. Dát najevo naši společnou sílu. Má to cenu!
+		</p>
+		<p class="text-left">
+			Výbor Solidarity studentů<br />
+			V Brně 10. listopadu 2026
+		</p>
+	</section>
+
+	<section>
 		<h2>PROHLÁŠENÍ VÝBORU SOLIDARITY STUDENTŮ KE DNI 3.&nbsp;11.&nbsp;2026</h2>
 		<p>
 			Pro otevření dialogu všech iniciativ bychom rádi vyjasnili podstatu <span
